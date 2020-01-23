@@ -19,5 +19,5 @@ Creating book API to be 'containerize' by docker.
 01-21-2019 1:20 PM - Added Django REST Framework.
 01-21-2019 1:40 PM - Added Dockerfile and docker-compose.yml
 01-23-2019 8:00 AM - Added authentication
-
+01-23-2019 3:10 PM - Added CORS and setup environ
 
